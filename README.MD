@@ -1,0 +1,2 @@
+# OrnekRep
+Bu clone örneğidir.
